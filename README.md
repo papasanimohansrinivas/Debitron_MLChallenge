@@ -1,4 +1,4 @@
-# Debitron ML 
+# Debitron ML Challenge
 
 # Folder Ordering
 ```
