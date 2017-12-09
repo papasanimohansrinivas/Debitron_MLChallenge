@@ -1,4 +1,4 @@
-# Debitron ML Challenge
+# Debitron ML 
 
 # Folder Ordering
 ```
@@ -30,7 +30,7 @@
 		|
 		|__ Testing Data
 		|	|
-		|	|__
+		|	|__testdata.xlsx
 		|
 		|__ Training Data
 		|	|
@@ -81,19 +81,19 @@
 
 
 
-#Ideology 
+# Ideology 
 
-1.I had trained my model on first 20000 data points in excel 
+		1.I had trained my model on first 20000 data points in excel 
 
-2. Then i validated them against 10000 remaining in dataset 
+		2. Then i validated them against 10000 remaining in dataset 
 
-3. I had got 85.5 accuracy 
+		3. I had got 85.5 accuracy 
 
-4.So i serialised model
+		4.So i serialised model
 
-5.Given a new dataset my model will classify each user forced debit will get accepted or rejected 
+		5.Given a new dataset my model will classify each user forced debit will get accepted or rejected 
 
-6.Then i moved would_be_rejected people into top rows and sorted both rejected / aprroved guys  each of them by their amount due .
+		6.Then i moved would_be_rejected people into top rows and sorted both rejected / aprroved guys  each of them by their amount due .
 
 
 
