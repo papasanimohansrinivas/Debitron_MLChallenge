@@ -1,7 +1,7 @@
 # Debitron ML 
 
 # Folder Ordering
-
+'''
 1.Debitron Challenge
 		|
 		|__ RESULT
@@ -40,7 +40,7 @@
 		|		
 		|__ Readme.md
 
-
+'''
 ## Requirements
 
 1.Python 2.7
