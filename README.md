@@ -43,15 +43,15 @@
 ```
 ## Requirements
 
-1.Python 2.7
+	1.Python 2.7
 
-2.Pandas library
+	2.Pandas library
 
-3.sklearn library
+	3.sklearn library
 
-4.Jupyter NoteBook or Anaconda
+	4.Jupyter NoteBook or Anaconda
 
-5.Pickle Library
+	5.Pickle Library
 
 ## Instructions to execute code
 
