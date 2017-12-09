@@ -5,36 +5,36 @@
 1.Debitron Challenge
 		|
 		|__ RESULT
-		|		|
-		|		|__DDB.xlsx
+		|	|
+		|	|__DDB.xlsx
 		|
 		|
 		|__ Scripts
-		|		|
-		|		|
-		|		|__ .ipynb_checkpoints
-		|		|
-		|		|__Serialised Models
-		|		|				|
-		|		|				|__LogRmodel_1
-		|		|				
-		|		|__BankingIndustry.ipynb
-		|		|
-		|		|__production_model.ipynb
-		|		|
-		|		|__Untitled.ipynb
-		|		|
-		|		|__production_model.py
-		| 		|
-		|		|__model_training.py
+		|	|
+		|	|
+		|	|__ .ipynb_checkpoints
+		|	|
+		|	|__Serialised Models
+		|	|		|
+		|	|		|__LogRmodel_1
+		|	|				
+		|	|__BankingIndustry.ipynb
+		|	|
+		|	|__production_model.ipynb
+		|	|
+		|	|__Untitled.ipynb
+		|	|
+		|	|__production_model.py
+		| 	|
+		|	|__model_training.py
 		|
 		|__ Testing Data
-		|		|
-		|		|__
+		|	|
+		|	|__
 		|
 		|__ Training Data
-		|		|
-		|		|__CompiledDDBs_Challenge_v3_2.xlsx
+		|	|
+		|	|__CompiledDDBs_Challenge_v3_2.xlsx
 		|       |
 		|       |__DataDictionary_Challenge_v2.xlsx
 		|		
